@@ -1,0 +1,6 @@
+{
+  "name": "selfheal-demo-target",
+  "version": "1.0.0",
+  "description": "Sample app used to demonstrate selfheal-cli's auto-migration PRs against a real, controlled repo instead of unsolicited third-party PRs.",
+  "main": "src/billing.js"
+}
